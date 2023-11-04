@@ -18,12 +18,28 @@ h1, h2 {
     text-align: center;
 }
 
+#hero {
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    object-position: 50%;
+}
+
 main {
     background-color: rgb(255, 255, 255);
 }
 
+h3 {
+    text-decoration: underline;
+}
+
 .seasons ul {
     list-style-type: none;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 
