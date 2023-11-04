@@ -1,0 +1,31 @@
+/*Import link for Google font*/
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+header {
+    background-color: coral;
+}
+
+h1, h2 {
+    font-family: 'Acme', sans-serif;
+}
+
+#title h1, h2{
+    background-color: rgb(240, 5, 138);
+    text-decoration: underline wavy;
+    text-align: center;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+}
+
+.seasons ul {
+    list-style-type: none;
+}
+
+footer {
+    background-color: rgb(237, 221, 151); 
+}
