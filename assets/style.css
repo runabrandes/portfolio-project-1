@@ -1,5 +1,6 @@
 /*Import link for Google font*/
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 body {
     font-family: 'PT Sans', sans-serif;
 }
@@ -9,11 +10,13 @@ h1 {
     text-decoration: underline;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Acme', sans-serif;
 }
 
-#title h1, h2{
+#title h1,
+h2 {
     background-color: rgb(240, 5, 138);
     text-align: center;
 }
@@ -37,9 +40,9 @@ h3 {
 }
 
 #temple-image > img {
-max-width: 100%;
-object-fit: cover;
-padding-top: 20px;
+    max-width: 100%;
+    object-fit: cover;
+    padding-top: 20px;
 }
 
 .seasons ul {
@@ -75,25 +78,25 @@ padding-top: 20px;
     #hero {
         height: 480px;
     }
-    
+
     #seasons-one {
-       display: flex; 
-       align-items: center;
-       justify-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     #seasons-two {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
-    #temple-image > img {
-        max-width:380px;
+    #temple-image>img {
+        max-width: 380px;
         padding-bottom: 50px;
     }
 
-    #winter-image > img {
+    #winter-image>img {
         max-width: 380px;
         padding-bottom: 50px;
     }
