@@ -4,6 +4,10 @@ body {
     font-family: 'PT Sans', sans-serif;
 }
 
+h1 {
+    font-size: 250%;
+    text-decoration: underline;
+}
 
 h1, h2 {
     font-family: 'Acme', sans-serif;
@@ -21,6 +25,7 @@ h1, h2 {
     height: 400px;
     object-fit: cover;
     object-position: 50%;
+    padding-bottom: 20px;
 }
 
 main {
@@ -34,7 +39,7 @@ h3 {
 #temple-image > img {
 max-width: 100%;
 object-fit: cover;
-padding-top: 50px;
+padding-top: 20px;
 }
 
 .seasons ul {
@@ -47,15 +52,30 @@ padding-top: 50px;
 #winter-image>img {
     max-width: 100%;
     object-fit: cover;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
-footer {
-    background-color: rgb(237, 221, 151); 
+/*Footer*/
+
+#socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+    align-items: center;
+    padding-left: 0;
+}
+
+#socials i {
+    font-size: 200%;
 }
 
 /*Media query: tablets and bigger (768px min)*/
 @media screen and (min-width: 768px) {
+    #hero {
+        height: 480px;
+    }
+    
     #seasons-one {
        display: flex; 
        align-items: center;
