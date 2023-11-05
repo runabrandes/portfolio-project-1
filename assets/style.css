@@ -11,7 +11,6 @@ h1, h2 {
 
 #title h1, h2{
     background-color: rgb(240, 5, 138);
-    text-decoration: underline wavy;
     text-align: center;
 }
 
@@ -45,6 +44,12 @@ padding-top: 50px;
     padding-right: 20px;
 }
 
+#winter-image>img {
+    max-width: 100%;
+    object-fit: cover;
+    padding-top: 50px;
+}
+
 footer {
     background-color: rgb(237, 221, 151); 
 }
@@ -57,8 +62,19 @@ footer {
        justify-content: center;
     }
 
+    #seasons-two {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
     #temple-image > img {
         max-width:380px;
+        padding-bottom: 50px;
+    }
+
+    #winter-image > img {
+        max-width: 380px;
         padding-bottom: 50px;
     }
 }
