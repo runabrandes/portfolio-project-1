@@ -59,5 +59,6 @@ footer {
 
     #temple-image > img {
         max-width:380px;
+        padding-bottom: 50px;
     }
 }
