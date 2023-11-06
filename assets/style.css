@@ -104,6 +104,9 @@ h3 {
     #hero {
         height: 480px;
         padding-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     #seasons-one {
@@ -135,5 +138,8 @@ h3 {
     #hero {
         width: 1400px;
         padding: 10px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     } 
 }
