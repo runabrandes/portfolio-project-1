@@ -13,12 +13,23 @@ h1 {
 h1,
 h2 {
     font-family: 'Acme', sans-serif;
+    color: black;
 }
 
-#title h1,
-h2 {
-    background-color: rgb(240, 5, 138);
+#title {
+background-image: url('../assets/images/pngegg.png');
+background-position: center center;
+background-repeat: no-repeat;
+max-height: 100%;
+}
+
+#title h1, h2 {
     text-align: center;
+    color: #ffffff;
+}
+
+main h2 {
+    color: #000000;
 }
 
 #hero {
@@ -29,6 +40,21 @@ h2 {
     object-fit: cover;
     object-position: 50%;
     padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    font-weight: bolder;
+}
+
+#navbar a {
+    color: #000000;
+}
+
+#navbar a:hover {
+    text-decoration: dotted;
 }
 
 main {
@@ -77,6 +103,7 @@ h3 {
 @media screen and (min-width: 768px) {
     #hero {
         height: 480px;
+        padding-top: 10px;
     }
 
     #seasons-one {
@@ -99,5 +126,14 @@ h3 {
     #winter-image>img {
         max-width: 380px;
         padding-bottom: 50px;
+    }
+}
+
+/*Media query: large laptops and bigger (1400px min)*/
+@media screen and (min-width: 1400px) {
+
+    #hero {
+        width: 1400px;
+        padding: 10px 20px;
     }
 }
