@@ -32,6 +32,12 @@ main h2 {
     color: #000000;
 }
 
+.hero-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #hero {
     background-position: center center;
     background-repeat: no-repeat;
@@ -104,9 +110,6 @@ h3 {
     #hero {
         height: 480px;
         padding-top: 10px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
     }
 
     #seasons-one {
@@ -134,12 +137,9 @@ h3 {
 
 /*Media query: large laptops and bigger (1400px min)*/
 @media screen and (min-width: 1400px) {
-
+    
     #hero {
         width: 1400px;
         padding: 10px 20px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
     } 
 }
