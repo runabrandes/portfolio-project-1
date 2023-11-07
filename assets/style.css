@@ -92,8 +92,8 @@ h3 {
 
 /*Gallery*/
 
-#gallery img {
-    max-width:100%
+.gallery img {
+    max-width:100%;
 }
 
 /*Sign Up page*/
@@ -153,13 +153,13 @@ h3 {
         padding-bottom: 50px;
     }
     /*Gallery*/
-    #gallery {
+    .gallery {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
     }
 
-    #gallery img {
+    .gallery img {
         padding-top: 5px;
     }
 }
@@ -173,14 +173,21 @@ h3 {
     } 
 
     /*Gallery*/
-    #gallery {
+    .gallery {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
     }
     
-    #gallery img {
+    .gallery img {
         padding-top: 5px;
+    }
+
+    .gallery #springimg {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
     }
 }
