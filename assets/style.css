@@ -96,6 +96,18 @@ h3 {
     max-width:100%
 }
 
+/*Sign Up page*/
+
+.signupbody{
+    background-image: url('/../../assets/images/blossom-bg.jpg');
+}
+
+#signup {
+    background: rgba(37, 63, 144, 0.2);
+    margin: 20px 0px;
+    padding: 50px 10px; 
+}
+
 /*Footer*/
 
 #socials {
