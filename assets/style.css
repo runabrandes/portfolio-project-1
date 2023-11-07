@@ -90,6 +90,12 @@ h3 {
     padding-top: 20px;
 }
 
+/*Gallery*/
+
+#gallery img {
+    max-width:100%
+}
+
 /*Footer*/
 
 #socials {
