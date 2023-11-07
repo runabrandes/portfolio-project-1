@@ -125,6 +125,7 @@ h3 {
 
 /*Media query: tablets and bigger (768px min)*/
 @media screen and (min-width: 768px) {
+    /*Index*/
     #hero {
         height: 480px;
         padding-top: 10px;
@@ -151,6 +152,16 @@ h3 {
         max-width: 380px;
         padding-bottom: 50px;
     }
+    /*Gallery*/
+    #gallery {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #gallery img {
+        padding-top: 5px;
+    }
 }
 
 /*Media query: large laptops and bigger (1400px min)*/
@@ -160,4 +171,15 @@ h3 {
         width: 1400px;
         padding: 10px 20px;
     } 
+
+    /*Gallery*/
+    #gallery {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+    }
+    
+    #gallery img {
+        padding-top: 5px;
+    }
 }
