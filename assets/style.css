@@ -105,7 +105,12 @@ h3 {
 #signup {
     background: rgba(37, 63, 144, 0.2);
     margin: 20px 0px;
-    padding: 50px 10px; 
+    padding: 40px 10px; 
+}
+
+.radio {
+    text-align: center;
+    padding-top: 20px;
 }
 
 /*Footer*/
