@@ -17,7 +17,7 @@ h2 {
 }
 
 #title {
-background-image: url('../assets/images/pngegg.png');
+background-image: url('../images/pngegg.png');
 background-position: center center;
 background-repeat: no-repeat;
 max-height: 100%;
@@ -103,7 +103,7 @@ h3 {
 /*Sign Up page*/
 
 .signupbody{
-    background-image: url('../assets/images/blossom-bg.jpg');
+    background-image: url('../images/blossom-bg.jpg');
 }
 
 .form {
