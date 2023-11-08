@@ -121,6 +121,14 @@ h3 {
 
 /*Footer*/
 
+.footer {
+    background-color: #000000;
+    top: 0;
+    left: 0;
+    height: 10vh;
+    width: 100%;
+}
+
 #socials {
     display: flex;
     flex-direction: row;
@@ -128,6 +136,8 @@ h3 {
     list-style-type: none;
     align-items: center;
     padding-left: 0;
+    margin-bottom: 16px;
+    padding-top: 20px;
 }
 
 #socials i {
