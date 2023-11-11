@@ -153,6 +153,15 @@ input[type=radio] {
     flex-direction: column;
 }
 
+.thanks h2 {
+    font-size: xx-large;
+}
+
+#thanks-p {
+    text-align: center;
+    font-size: larger;
+}
+
 /*Footer*/
 
 .footer {
