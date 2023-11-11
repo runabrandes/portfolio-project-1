@@ -126,6 +126,10 @@ h3 {
     padding-top: 20px;
 }
 
+input[type=radio] {
+    accent-color: pink;
+}
+
 /*Footer*/
 
 #socials {
