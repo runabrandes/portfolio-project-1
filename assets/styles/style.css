@@ -239,6 +239,7 @@ input[type=radio] {
 
     #springimg {
         display: flex;
+        padding-top: 20px;
     }
 
     #springimg1 {
