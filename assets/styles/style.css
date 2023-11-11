@@ -133,6 +133,12 @@ input[type=radio] {
     accent-color: pink;
 }
 
+/*Thank You page*/
+
+.thankyoubody {
+    background-image: url('../images/blossom-bg.jpg');
+}
+
 /*Footer*/
 
 .footer {
@@ -204,6 +210,10 @@ input[type=radio] {
     }
 
     .signupbody {
+        background-position-x: center;
+    }
+
+    .thankyoubody {
         background-position-x: center;
     }
 }
