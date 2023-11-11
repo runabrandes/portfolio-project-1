@@ -60,6 +60,7 @@ main h2 {
     display: flex;
     justify-content: space-around;
     font-weight: bolder;
+    font-size: x-large;
 }
 
 #navbar a {
