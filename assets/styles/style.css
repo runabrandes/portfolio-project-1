@@ -145,6 +145,14 @@ input[type=radio] {
     background-image: url('../images/blossom-bg.jpg');
 }
 
+.tymessage {
+    background: rgba(243, 243, 255, 0.5);
+    padding: 40px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
 /*Footer*/
 
 .footer {
