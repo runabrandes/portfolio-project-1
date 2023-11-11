@@ -3,6 +3,9 @@
 
 body {
     font-family: 'PT Sans', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 h1 {
@@ -131,6 +134,10 @@ input[type=radio] {
 }
 
 /*Footer*/
+
+.footer {
+    margin-top: auto;
+}
 
 #socials {
     display: flex;
