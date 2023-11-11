@@ -146,11 +146,19 @@ input[type=radio] {
 }
 
 .tymessage {
-    background: rgba(243, 243, 255, 0.5);
     padding: 40px 20px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+}
+
+.thanks {
+    background: rgba(243, 243, 255, 0.5);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin: 20px 0px;
+    padding: 40px 10px;
 }
 
 .thanks h2 {
