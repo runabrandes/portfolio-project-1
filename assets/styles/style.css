@@ -30,7 +30,8 @@ h2 {
     max-height: 100%;
 }
 
-#title h1, h2 {
+#title h1,
+h2 {
     text-align: center;
     color: #ffffff;
 }
@@ -234,6 +235,43 @@ input[type=radio] {
 
     .gallery img {
         padding-top: 5px;
+    }
+
+    #springimg {
+        display: flex;
+    }
+
+    #springimg1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #summerimg {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    #summerimg1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #fallimg {
+        display: flex;
+    }
+
+    #fallimg1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #winterimg {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
     }
 
     /*Sign Up*/
