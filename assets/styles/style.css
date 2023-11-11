@@ -78,8 +78,6 @@ h3 {
     text-shadow: 2px 2px lightgray;
 }
 
-
-
 #temple-image>img {
     max-width: 100%;
     object-fit: cover;
@@ -97,6 +95,11 @@ h3 {
     max-width: 100%;
     object-fit: cover;
     padding-top: 20px;
+}
+
+.audio {
+    display: flex;
+    justify-content: center;
 }
 
 /*Gallery*/
