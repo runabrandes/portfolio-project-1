@@ -1,6 +1,10 @@
 /*Import link for Google font*/
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+.htmlbg {
+    background-color: aliceblue;
+}
+
 body {
     font-family: 'PT Sans', sans-serif;
     min-height: 100vh;
@@ -20,10 +24,10 @@ h2 {
 }
 
 #title {
-background-image: url('../images/pngegg.png');
-background-position: center center;
-background-repeat: no-repeat;
-max-height: 100%;
+    background-image: url('../images/pngegg.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-height: 100%;
 }
 
 #title h1, h2 {
@@ -71,7 +75,9 @@ h3 {
     text-decoration: underline;
 }
 
-#temple-image > img {
+
+
+#temple-image>img {
     max-width: 100%;
     object-fit: cover;
     padding-top: 20px;
@@ -96,16 +102,16 @@ h3 {
     position: sticky;
     top: 0;
     left: 0;
-    background-color: #ffffff;
+    background-color: aliceblue;
 }
 
 .gallery img {
-    max-width:100%;
+    max-width: 100%;
 }
 
 /*Sign Up page*/
 
-.signupbody{
+.signupbody {
     background-image: url('../images/blossom-bg.jpg');
 }
 
@@ -119,7 +125,7 @@ h3 {
 
 #signup {
     margin: 20px 0px;
-    padding: 40px 10px; 
+    padding: 40px 10px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -164,6 +170,7 @@ input[type=radio] {
 
 /*Media query: tablets and bigger (768px min)*/
 @media screen and (min-width: 768px) {
+
     /*Index*/
     #hero {
         height: 480px;
@@ -191,6 +198,7 @@ input[type=radio] {
         max-width: 380px;
         padding-bottom: 50px;
     }
+
     /*Gallery*/
     .gallery {
         display: flex;
@@ -203,7 +211,7 @@ input[type=radio] {
     }
 
     /*Sign Up*/
-    #signup {   
+    #signup {
 
         margin: 30px 0px;
         padding: 50px 10px;
@@ -220,11 +228,11 @@ input[type=radio] {
 
 /*Media query: large laptops and bigger (1400px min)*/
 @media screen and (min-width: 1400px) {
-    
+
     #hero {
         width: 1400px;
         padding: 10px 20px;
-    } 
+    }
 
     /*Gallery*/
     .gallery {
@@ -233,7 +241,7 @@ input[type=radio] {
         justify-content: center;
         align-items: center;
     }
-    
+
     .gallery img {
         padding-top: 5px;
     }
