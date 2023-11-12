@@ -1,39 +1,46 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# PORTFOLIO PROJECT 1
 
-Welcome,
+# Japan - A Seasonal Travel Guide
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## SITE PURPOSE
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Japan - A Seasonal Travel Guide is a website that informs users about aspects of the different seasons in Japan and gives examples of activities that are a must-do during each season. It also offers a newsletter sign up, which provides the subscriber with ideas for seasonal activities taking place exclusively in Japan.
+[Here is a link to the final project](https://runabrandes.github.io/portfolio-project-1/)
 
-## Codeanywhere Reminders
+## FINAL DESIGN
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+![Final project image](Link missing as project not fully finalised yet!) [Am  I Responsive](https://amiresponsive.co.uk/)
 
-`python3 -m http.server`
+## PROJECT IDEA
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+My idea for this project was to create a website that informs the user about activities and seasonal aspects in Japan. My husband and I are planning to travel to Japan in 2025 and have researched the aspects of each season extensively to help us determine which of the four would be our preferred season to visit Japan. There are lots of different activities that are exclusive to Japan to choose from, like the Cherry Blossom season and a variety of shrine festivals.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+  The Features I wanted the project website to have are:
 
-`http_server`
+* Pages are easy to read and navigate
+* Images that make the users want to see more of the country
+* Simple newsletter sign up form
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+#
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## UX/UI
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+* The page is informative
+* The page is simple to understand and navigate
+* The page content is easy to read
+* The images used are clear and fit the content
 
-To log into the Heroku toolbelt CLI:
+## Site Goals
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+* Providing users with an easy to read and navigate website
+* Providing users with a good amount of information and make them keen to sign up to the newsletter
+* To make the site accessible
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## USER STORIES
 
----
-
-Happy coding!
+* As a user, I want to easily understand the main purpose of the website
+* As a user, I want to be able to navigate the site with a navigation bar
+* As a user, I want the site to inform me of what the website description promises
+* As a user, I want to see images related to the website content
+  
+#
