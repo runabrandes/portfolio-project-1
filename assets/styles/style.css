@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .htmlbg {
-    background-color: aliceblue;
+    background-color: rgba(57, 172, 221, 0.5);
 }
 
 body {
@@ -108,7 +108,7 @@ h3 {
     position: sticky;
     top: 0;
     left: 0;
-    background-color: aliceblue;
+    background-color: rgba(57, 172, 221, 0.3);
 }
 
 .images {
