@@ -136,6 +136,10 @@ h3 {
     justify-content: space-evenly;
 }
 
+input[type=submit], input[type=text], input[type=email] {
+    background-color: pink;
+}
+
 .radio {
     text-align: center;
     padding-top: 20px;
