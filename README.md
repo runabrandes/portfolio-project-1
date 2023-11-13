@@ -47,30 +47,30 @@ My idea for this project was to create a website that informs the user about act
 
 ## WIREFRAMES
 
-* Wireframes for mobile and desktop: 
+* Wireframes for mobile and desktop:
 
-    * Wireframes for Home Page
+* Wireframes for Home Page
   
-  ![wireframesdesktophome](assets/wireframes/home_desktop.png)
+  ![wireframeshomedesktop](assets/wireframes/home_desktop.png)
 
-  ![wireframesmobilehome](assets/wireframes/home_mobile.png)
+  ![wireframeshomemobile](assets/wireframes/home_mobile.png)
 
-    * Wireframes for Gallery page
+* Wireframes for Gallery page
 
-  ![wireframesdesktopgallery](assets/wireframes/gallery_desktop.png)
+  ![wireframesgallerydesktop](assets/wireframes/gallery_desktop.png)
 
-  ![wireframesmobilegallery](assets/wireframes/gallery_mobile.png)
+  ![wireframesgallerymobile](assets/wireframes/gallery_mobile.png)
 
-    * Wireframes for Newsletter page
+* Wireframes for Newsletter page
 
-  ![wireframesdesktopsignup](assets/wireframes/newsletter_desktop.png)
+  ![wireframessignupdesktop](assets/wireframes/newsletter_desktop.png)
 
-  ![wireframesmobilesignup](assets/wireframes/newsletter_mobile.png)
+  ![wireframessignupmobile](assets/wireframes/newsletter_mobile.png)
 
-    * Wireframes for Thank you page
+* Wireframes for Thank you page
 
-  ![wireframesdesktopthankyou](assets/wireframes/thankyou_desktop.png)
+  ![wireframesthankyoudesktop](assets/wireframes/thankyou_desktop.png)
 
-  ![wireframesmobilethankyou](assets/wireframes/thankyou_mobile.png)
+  ![wireframesthankyoumobile](assets/wireframes/thankyou_mobile.png)
 
 #
