@@ -44,3 +44,33 @@ My idea for this project was to create a website that informs the user about act
 * As a user, I want to see images related to the website content
   
 #
+
+## WIREFRAMES
+
+* Wireframes for mobile and desktop: 
+
+    * Wireframes for Home Page
+  
+  ![wireframesdesktophome](assets/wireframes/home_desktop.png)
+
+  ![wireframesmobilehome](assets/wireframes/home_mobile.png)
+
+    * Wireframes for Gallery page
+
+  ![wireframesdesktopgallery](assets/wireframes/gallery_desktop.png)
+
+  ![wireframesmobilegallery](assets/wireframes/gallery_mobile.png)
+
+    * Wireframes for Newsletter page
+
+  ![wireframesdesktopsignup](assets/wireframes/newsletter_desktop.png)
+
+  ![wireframesmobilesignup](assets/wireframes/newsletter_mobile.png)
+
+    * Wireframes for Thank you page
+
+  ![wireframesdesktopthankyou](assets/wireframes/thankyou_desktop.png)
+
+  ![wireframesmobilethankyou](assets/wireframes/thankyou_mobile.png)
+
+#
