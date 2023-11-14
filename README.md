@@ -30,7 +30,7 @@ My idea for this project was to create a website that informs the user about act
 * The page content is easy to read
 * The images used are clear and fit the content
 
-## Site Goals
+## SITE GOALS
 
 * Providing users with an easy to read and navigate website
 * Providing users with a good amount of information and make them keen to sign up to the newsletter
@@ -72,6 +72,62 @@ My idea for this project was to create a website that informs the user about act
   ![wireframesthankyoudesktop](assets/wireframes/thankyou_desktop.png)
 
   ![wireframesthankyoumobile](assets/wireframes/thankyou_mobile.png)
+
+#
+
+## WEBSITE FEATURES
+
+* The website consists of:
+  * 4 pages in total. A Home page, a Gallery page, a Newletter Sign Up page and a Thank You page.
+  * Each page has the same body layout, header (title), navbar (navigation), main (text and / or images) and footer (social media icons and links).
+
+* Home page
+  * The Home page features a hero image of Mount Fuji in autumn with a text box hovering in the bottom left corner. The text box is only visible on screens 768px or larger width. (Tablets and larger)
+
+  * The main part of the home page has a brief description of some core factors of each season in Japan. It also features images and an audio file.
+  
+  ![heroimage](assets/website_images/hero.png)
+
+  ![homepage1](assets/website_images/home1.png)
+  
+  ![homepage2](assets/website_images/home2.png)
+  
+  ![audiofile](assets/website_images/audiofile.png)
+
+* Gallery
+  * Features 11 images in total. All the images relate to Japan during different seasons, creating an interesting page for the user.
+
+  ![gallerypage](assets/website_images/gallerypage.png)
+
+* Sign Up page
+  * Has a form to include first name, last name, email address and radio buttons to select from five selections. (Spring, Summer, Autumn, Winter, All). It also features a background image on screens that are larger than 768px.
+  
+  ![signuppage](assets/website_images/signuppage.png)
+
+* Sign up form
+  * Form validation requests the user to input the required information in the different input fields. The submit button has a link to the Thank You page.
+  
+   ![signupform](assets/website_images/signupform.png)
+
+* Thank You page
+  * The Thank You page can be reached when submitting the sign up form. If all required information has been entered, clicking the submit button will take you to the Thank You page.
+
+![thankyoupage](assets/website_images/thankyou.png)
+
+* Header
+  * The header is a dark red paint brush background with h1 and h2 elements that are white.
+  
+  ![header](assets/website_images/header.png)
+  
+* Navbar
+  * The navigation bar has 3 links that take the user to either home, gallery or sign up.
+
+  ![navbar](assets/website_images/navbar.png)
+
+* Footer
+  * The Footer contains Social media links (Instagram, Facebook, YouTube) that take you to the relevant website's home page.
+  
+  ![footer](assets/website_images/footer.png)
 
 #
 
