@@ -74,3 +74,34 @@ My idea for this project was to create a website that informs the user about act
   ![wireframesthankyoumobile](assets/wireframes/thankyou_mobile.png)
 
 #
+
+## DESIGN
+
+* Colour Scheme:
+  * The colour scheme used for the website was an idea of using calm and content related colours in conjunction. The header is a combination of a white font with a deep red background, which was inspired by the colours of the Japanese flag.
+  * The overall background colour is a light blue which was inspired by nature and wide blue skies, also this colour makes it easy to read the general texts on the website, as aside from the header font, the overall font colour used is a simple black colour.
+  * The blue background colour for the Home and Gallery pages was taken from the background image used for the Newsletter Sign Up and the Thank you pages, as the background image for these pages is a picture featuring a blue background with pink cherry blossoms in the foreground. The pink aspects of the cherry blossom were also integrated into the sign up form, as the text input fields, the sign up button and the radio buttons all feature a pink shade.
+  * There was also a light grey used for the sign up form and text div on the Sign Up page and Thank You page to allow the users to be able to easily read the text, even though these pages feature a background image. The colour is slightly opaque so the background image is still visible.
+  * The footer colour is black, which makes it stand out from the entire page and allows the social media icon colours to really "pop", which will draw the user's attention. The icon colours for the social media icons have been taken from the actual icons, as I have used the Chrome Developer Tools "colour picker tool" on them and was able to find out the hex/rgb codes for them that way. The Instagram icon is a bright pink, the Facebook icon is a shade of dark blue and the YouTube icon is a bright red.
+  
+  * Colours with their rgb codes can be found below:
+  * ![headerfont](assets/colours/rgb255-255-255.png) rgb(255, 255, 255)
+  * ![headerbackground](assets/colours/rgb202-20-30.png) rgb(202, 20, 30)
+  * ![generalfontcolour](assets/colours/rgb0-0-0.png) rgb(0, 0, 0)
+  * ![generalbackgroundcolour](assets/colours/rgb57-172-221.png) rbg(57, 172, 221)
+  * ![headerdivbackground](assets/colours/rgb0-6-49.png) rgb(0, 6, 49)
+  * ![instagramicon](assets/colours/rgb199-58-152.png) rgb(199, 58, 152)
+  * ![facebookicon](assets/colours/rgb26-120-242.png) rgb(26, 120, 242)
+  * ![youtubeicon](assets/colours/rgb255-0-0.png) rgb(255, 0, 0)
+  * ![signupdiv](assets/colours/rgb243-243-255.png) rgb(243, 243, 255)
+  * ![signupinput](assets/colours/rgb255-192-203.png) rgb(255, 192, 203)
+
+* TYPOGRAPHY
+  * The fonts used for my website are "Acme" and "PT Sans". "Acme" was used for the h1 and h2 elements. "PT Sans" was used for the rest of the website. The backup font for the entire website is sans-serif. The fonts are imported from Google Fonts.
+  
+* IMAGES / AUDIO
+  * The image of the red paint stroke for the heading of the website was taken from [pngegg.com](https://www.pngegg.com/)
+  * All other images used for the website, liek the gallery and background pictures were downlaoded from [freepik.com](https://www.freepik.com/) and [pexels.com](https://www.pexels.com/).
+  * The audio, which can be found at the bottom of the home page, was downloaded from [fesliyanstudios.com](https://www.fesliyanstudios.com/)
+
+#
