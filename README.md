@@ -82,7 +82,7 @@ My idea for this project was to create a website that informs the user about act
   * Each page has the same body layout, header (title), navbar (navigation), main (text and / or images) and footer (social media icons and links).
 
 * Home page
-  * The Home page features a hero image of Mount Fuji in autumn to allow for the user to get right into the mindset of browsing the website and get excited to learn more about the topic of seasons in Japan. 
+  * The Home page features a hero image of Mount Fuji in autumn to allow for the user to get right into the mindset of browsing the website and get excited to learn more about the topic of seasons in Japan.
 
   * The main part of the home page has a brief description of some core factors of each season in Japan. It also features images and an audio file which are designed to make the used feel as if they have already started their holiday in Japan.
   
@@ -161,3 +161,51 @@ My idea for this project was to create a website that informs the user about act
   * The audio, which can be found at the bottom of the home page, was downloaded from [fesliyanstudios.com](https://www.fesliyanstudios.com/)
 
 #
+
+## TESTING
+
+### VALIDATORS
+
+* HTML
+  * I have checked all my HTML files with the W3C HTML Validator and was given no errors, but a few warnings stating that some of my sections were lacking a header, and a fix for this was to change the sections to divs instead, which I have done since. There was a few "Info" messages as well, stating "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.", which is due to Prettier extension in CodeAnywhere being used. 
+
+![HTML_validator_image](assets/README_documentation/website_images/html-validation.png)
+
+* CSS
+  * I have checkde my style.css file with the W3C CSS Validator and was given no errors. There was one warning message regarding the imported style sheets from Google Fonts stating "Imported style sheets are not checked in direct input and file upload modes". This can not be changed as it is an external file from Google Fonts.
+  
+![CSS_validator_image](assets/README_documentation/website_images/css-validation.png)
+![CSS_warning](assets/README_documentation/website_images/css-warning.png)
+
+### LIGHTHOUSE
+
+*Home page
+*Gallery page
+*Newsletter sign up
+*Thank You page
+
+### ACCESSIBILITY
+
+### DEVICES
+
+I have tested responsiveness and functionality on the following devices and browsers:
+  
+* Android:
+
+  * Samsung Galaxy S23 Ultra
+  * Galaxy Tab 7
+
+* Apple:
+
+  * iPad mini
+  * iPhone 14 Pro Max
+  * MacBook Air 2023
+  
+* Desktops/laptops:
+
+* HP Pavilion Laptop
+  
+* Browsers:
+
+  * Chrome
+  * Safari
