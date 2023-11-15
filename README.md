@@ -9,7 +9,7 @@ Japan - A Seasonal Travel Guide is a website that informs users about aspects of
 
 ## FINAL DESIGN
 
-![Final project image](Link missing as project not fully finalised yet!) [Am  I Responsive](https://amiresponsive.co.uk/)
+![Final project image](assets/README_documentation/website_images/Am_I_Responsive.png) [Am  I Responsive](https://amiresponsive.co.uk/)
 
 ## PROJECT IDEA
 
@@ -51,27 +51,27 @@ My idea for this project was to create a website that informs the user about act
 
 * Wireframes for Home Page
   
-  ![wireframeshomedesktop](assets/wireframes/home_desktop.png)
+  ![wireframeshomedesktop](assets/README_documentation/wireframes/home_desktop.png)
 
-  ![wireframeshomemobile](assets/wireframes/home_mobile.png)
+  ![wireframeshomemobile](assets/README_documentation/wireframes/home_mobile.png)
 
 * Wireframes for Gallery page
 
-  ![wireframesgallerydesktop](assets/wireframes/gallery_desktop.png)
+  ![wireframesgallerydesktop](assets/README_documentation/wireframes/gallery_desktop.png)
 
-  ![wireframesgallerymobile](assets/wireframes/gallery_mobile.png)
+  ![wireframesgallerymobile](assets/README_documentation/wireframes/gallery_mobile.png)
 
 * Wireframes for Newsletter page
 
-  ![wireframessignupdesktop](assets/wireframes/newsletter_desktop.png)
+  ![wireframessignupdesktop](assets/README_documentation/wireframes/newsletter_desktop.png)
 
-  ![wireframessignupmobile](assets/wireframes/newsletter_mobile.png)
+  ![wireframessignupmobile](assets/README_documentation/wireframes/newsletter_mobile.png)
 
 * Wireframes for Thank you page
 
-  ![wireframesthankyoudesktop](assets/wireframes/thankyou_desktop.png)
+  ![wireframesthankyoudesktop](assets/README_documentation/wireframes/thankyou_desktop.png)
 
-  ![wireframesthankyoumobile](assets/wireframes/thankyou_mobile.png)
+  ![wireframesthankyoumobile](assets/README_documentation/wireframes/thankyou_mobile.png)
 
 #
 
@@ -82,52 +82,52 @@ My idea for this project was to create a website that informs the user about act
   * Each page has the same body layout, header (title), navbar (navigation), main (text and / or images) and footer (social media icons and links).
 
 * Home page
-  * The Home page features a hero image of Mount Fuji in autumn with a text box hovering in the bottom left corner. The text box is only visible on screens 768px or larger width. (Tablets and larger)
+  * The Home page features a hero image of Mount Fuji in autumn to allow for the user to get right into the mindset of browsing the website and get excited to learn more about the topic of seasons in Japan. 
 
-  * The main part of the home page has a brief description of some core factors of each season in Japan. It also features images and an audio file.
+  * The main part of the home page has a brief description of some core factors of each season in Japan. It also features images and an audio file which are designed to make the used feel as if they have already started their holiday in Japan.
   
-  ![heroimage](assets/website_images/hero.png)
+  ![heroimage](assets/README_documentation/website_images/hero.png)
 
-  ![homepage1](assets/website_images/home1.png)
+  ![homepage1](assets/README_documentation/website_images/home1.png)
   
-  ![homepage2](assets/website_images/home2.png)
+  ![homepage2](assets/README_documentation/website_images/home2.png)
   
-  ![audiofile](assets/website_images/audiofile.png)
+  ![audiofile](assets/README_documentation/website_images/audiofile.png)
 
 * Gallery
   * Features 11 images in total. All the images relate to Japan during different seasons, creating an interesting page for the user.
 
-  ![gallerypage](assets/website_images/gallerypage.png)
+  ![gallerypage](assets/README_documentation/website_images/gallerypage.png)
 
 * Sign Up page
   * Has a form to include first name, last name, email address and radio buttons to select from five selections. (Spring, Summer, Autumn, Winter, All). It also features a background image on screens that are larger than 768px.
   
-  ![signuppage](assets/website_images/signuppage.png)
+  ![signuppage](assets/README_documentation/website_images/signuppage.png)
 
 * Sign up form
   * Form validation requests the user to input the required information in the different input fields. The submit button has a link to the Thank You page.
   
-   ![signupform](assets/website_images/signupform.png)
+   ![signupform](assets/README_documentation/website_images/signupform.png)
 
 * Thank You page
   * The Thank You page can be reached when submitting the sign up form. If all required information has been entered, clicking the submit button will take you to the Thank You page.
 
-![thankyoupage](assets/website_images/thankyou.png)
+![thankyoupage](assets/README_documentation/website_images/thankyou.png)
 
 * Header
   * The header is a dark red paint brush background with h1 and h2 elements that are white.
   
-  ![header](assets/website_images/header.png)
+  ![header](assets/README_documentation/website_images/header.png)
   
 * Navbar
   * The navigation bar has 3 links that take the user to either home, gallery or sign up.
 
-  ![navbar](assets/website_images/navbar.png)
+  ![navbar](assets/README_documentation/website_images/navbar.png)
 
 * Footer
   * The Footer contains Social media links (Instagram, Facebook, YouTube) that take you to the relevant website's home page.
   
-  ![footer](assets/website_images/footer.png)
+  ![footer](assets/README_documentation/website_images/footer.png)
 
 #
 
@@ -141,23 +141,23 @@ My idea for this project was to create a website that informs the user about act
   * The footer colour is black, which makes it stand out from the entire page and allows the social media icon colours to really "pop", which will draw the user's attention. The icon colours for the social media icons have been taken from the actual icons, as I have used the Chrome Developer Tools "colour picker tool" on them and was able to find out the hex/rgb codes for them that way. The Instagram icon is a bright pink, the Facebook icon is a shade of dark blue and the YouTube icon is a bright red.
   
   * Colours with their rgb codes can be found below:
-  * ![headerfont](assets/colours/rgb255-255-255.png) rgb(255, 255, 255)
-  * ![headerbackground](assets/colours/rgb202-20-30.png) rgb(202, 20, 30)
-  * ![generalfontcolour](assets/colours/rgb0-0-0.png) rgb(0, 0, 0)
-  * ![generalbackgroundcolour](assets/colours/rgb57-172-221.png) rbg(57, 172, 221)
-  * ![headerdivbackground](assets/colours/rgb0-6-49.png) rgb(0, 6, 49)
-  * ![instagramicon](assets/colours/rgb199-58-152.png) rgb(199, 58, 152)
-  * ![facebookicon](assets/colours/rgb26-120-242.png) rgb(26, 120, 242)
-  * ![youtubeicon](assets/colours/rgb255-0-0.png) rgb(255, 0, 0)
-  * ![signupdiv](assets/colours/rgb243-243-255.png) rgb(243, 243, 255)
-  * ![signupinput](assets/colours/rgb255-192-203.png) rgb(255, 192, 203)
+  * ![headerfont](assets/README_documentation/colours/rgb255-255-255.png) rgb(255, 255, 255)
+  * ![headerbackground](assets/README_documentation/colours/rgb202-20-30.png) rgb(202, 20, 30)
+  * ![generalfontcolour](assets/README_documentation/colours/rgb0-0-0.png) rgb(0, 0, 0)
+  * ![generalbackgroundcolour](assets/README_documentation/colours/rgb57-172-221.png) rbg(57, 172, 221)
+  * ![headerdivbackground](assets/README_documentation/colours/rgb0-6-49.png) rgb(0, 6, 49)
+  * ![instagramicon](assets/README_documentation/colours/rgb199-58-152.png) rgb(199, 58, 152)
+  * ![facebookicon](assets/README_documentation/colours/rgb26-120-242.png) rgb(26, 120, 242)
+  * ![youtubeicon](assets/README_documentation/colours/rgb255-0-0.png) rgb(255, 0, 0)
+  * ![signupdiv](assets/README_documentation/colours/rgb243-243-255.png) rgb(243, 243, 255)
+  * ![signupinput](assets/README_documentation/colours/rgb255-192-203.png) rgb(255, 192, 203)
 
 * TYPOGRAPHY
   * The fonts used for my website are "Acme" and "PT Sans". "Acme" was used for the h1 and h2 elements. "PT Sans" was used for the rest of the website. The backup font for the entire website is sans-serif. The fonts are imported from Google Fonts.
   
 * IMAGES / AUDIO
   * The image of the red paint stroke for the heading of the website was taken from [pngegg.com](https://www.pngegg.com/)
-  * All other images used for the website, liek the gallery and background pictures were downlaoded from [freepik.com](https://www.freepik.com/) and [pexels.com](https://www.pexels.com/).
+  * All other images used for the website, like the gallery and background pictures were downloaded from [freepik.com](https://www.freepik.com/) and [pexels.com](https://www.pexels.com/).
   * The audio, which can be found at the bottom of the home page, was downloaded from [fesliyanstudios.com](https://www.fesliyanstudios.com/)
 
 #
