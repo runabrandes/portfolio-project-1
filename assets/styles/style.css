@@ -207,15 +207,6 @@ input[type=radio] {
     font-size: 200%;
 }
 
-/*Media query targeting screens smaller than 767px*/
-@media screen and (max-width: 767px) {
-
-    /*Index*/
-    .hero-text {
-        display: none;
-    }
-}
-
 /*Media query: tablets and bigger (768px min)*/
 @media screen and (min-width: 768px) {
 
@@ -223,21 +214,6 @@ input[type=radio] {
     #hero {
         height: 480px;
         padding-top: 10px;
-    }
-
-    .hero-text {
-        position: absolute;
-        color: #ffffff;
-        background-color: rgba(0, 6, 49, 0.7);
-        left: 25px;
-        bottom: 25px;
-        font-size: larger;
-        width: 200px;
-    }
-
-    .hero-text p {
-        padding: 0px 10px;
-        font-size: larger;
     }
 
     #seasons-one {
