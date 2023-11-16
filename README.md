@@ -214,3 +214,11 @@ I have tested responsiveness and functionality on the following devices and brow
 
   * Chrome
   * Safari
+
+### FUNCTIONALITY OF WEBSITE
+
+* All links have been hovered over and clicked on to ensure accessibility
+* Pages all load correctly and on all device screen sizes
+* All Social media links work correctly and open in a new tab
+* All images load on each page as intended
+* The audio file works as intended
