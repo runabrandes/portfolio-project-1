@@ -167,22 +167,25 @@ My idea for this project was to create a website that informs the user about act
 ### VALIDATORS
 
 * HTML
-  * I have checked all my HTML files with the W3C HTML Validator and was given no errors, but a few warnings stating that some of my sections were lacking a header, and a fix for this was to change the sections to divs instead, which I have done since. There was a few "Info" messages as well, stating "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.", which is due to Prettier extension in CodeAnywhere being used. 
+  * I have checked all my HTML files with the W3C HTML Validator and was given no errors, but a few warnings stating that some of my sections were lacking a header, and a fix for this was to change the sections to divs instead, which I have done since. There was a few "Info" messages as well, stating "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.", which is due to Prettier extension in CodeAnywhere being used.
 
 ![HTML_validator_image](assets/README_documentation/website_images/html-validation.png)
 
 * CSS
-  * I have checkde my style.css file with the W3C CSS Validator and was given no errors. There was one warning message regarding the imported style sheets from Google Fonts stating "Imported style sheets are not checked in direct input and file upload modes". This can not be changed as it is an external file from Google Fonts.
+  * I have checked my style.css file with the W3C CSS Validator and was given no errors. There was one warning message regarding the imported style sheets from Google Fonts stating "Imported style sheets are not checked in direct input and file upload modes". This can not be changed as it is an external file from Google Fonts.
   
 ![CSS_validator_image](assets/README_documentation/website_images/css-validation.png)
 ![CSS_warning](assets/README_documentation/website_images/css-warning.png)
 
 ### LIGHTHOUSE
 
-*Home page
-*Gallery page
-*Newsletter sign up
-*Thank You page
+I have carried out Lighthouse testing for all four pages of my website. The results can be seen below:
+
+* ![lighthouse_home](assets/README_documentation/lighthouse/lighthouse_home.png)
+* ![lighthouse_gallery](assets/README_documentation/lighthouse/lighthouse_gallery.png)
+* ![lighthouse_newsletter](assets/README_documentation/lighthouse/lighthouse_newsletter.png)
+* ![lighthouse_thankyou](assets/README_documentation/lighthouse/lighthouse_thankyou.png)
+
 
 ### ACCESSIBILITY
 
@@ -199,11 +202,11 @@ I have tested responsiveness and functionality on the following devices and brow
 
   * iPad mini
   * iPhone 14 Pro Max
-  * MacBook Air 2023
   
 * Desktops/laptops:
 
-* HP Pavilion Laptop
+  * HP Pavilion Laptop
+  * MacBook Air 2023
   
 * Browsers:
 
