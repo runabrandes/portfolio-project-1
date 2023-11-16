@@ -186,8 +186,10 @@ I have carried out Lighthouse testing for all four pages of my website. The resu
 * ![lighthouse_newsletter](assets/README_documentation/lighthouse/lighthouse_newsletter.png)
 * ![lighthouse_thankyou](assets/README_documentation/lighthouse/lighthouse_thankyou.png)
 
-
 ### ACCESSIBILITY
+
+My website has been tested for accessibilty using the WAVE - Web Accessibility Evaluation Tool.
+The report can be viewed [here](https://wave.webaim.org/report#/https://runabrandes.github.io/portfolio-project-1/index.html).
 
 ### DEVICES
 
