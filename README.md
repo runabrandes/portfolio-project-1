@@ -84,7 +84,7 @@ My idea for this project was to create a website that informs the user about act
 * Home page
   * The Home page features a hero image of Mount Fuji in autumn to allow for the user to get right into the mindset of browsing the website and get excited to learn more about the topic of seasons in Japan.
 
-  * The main part of the home page has a brief description of some core factors of each season in Japan. It also features images and an audio file which are designed to make the used feel as if they have already started their holiday in Japan.
+  * The main part of the home page has a brief description of some core factors of each season in Japan. It also features images and an audio file which are designed to make the user feel as if they have already started their holiday in Japan.
   
   ![heroimage](assets/README_documentation/website_images/hero.png)
 
@@ -153,7 +153,11 @@ My idea for this project was to create a website that informs the user about act
   * ![signupinput](assets/README_documentation/colours/rgb255-192-203.png) rgb(255, 192, 203)
 
 * TYPOGRAPHY
-  * The fonts used for my website are "Acme" and "PT Sans". "Acme" was used for the h1 and h2 elements. "PT Sans" was used for the rest of the website. The backup font for the entire website is sans-serif. The fonts are imported from Google Fonts.
+  * The fonts used for my website are "Acme" and "PT Sans".
+  * "Acme" was used for the h1 and h2 elements.
+  * "PT Sans" was used for the rest of the website.
+  * The backup font for the entire website is sans-serif.
+  * The fonts are imported from Google Fonts.
   
 * IMAGES / AUDIO
   * The image of the red paint stroke for the heading of the website was taken from [pngegg.com](https://www.pngegg.com/)
@@ -226,6 +230,7 @@ I have tested responsiveness and functionality on the following devices and brow
 ### SOLVED / UNSOLVED BUGS AND ERRORS
 
 My website has not shown any errors whilst testing was carried out. I only had a few warning messages come up during the HTML and CSS testing. The warnings and their fixes can be found in the "Testing - Validators" section of this README document.
+
 #
 
 ## TECHNOLOGIES USED
@@ -256,10 +261,10 @@ My website has not shown any errors whilst testing was carried out. I only had a
 
 1. Click on the "Settings" icon at the top of page in the navigation bar of the relevant repository.
 2. Select "Pages" which can be found on the left handside of the GitHub website.
-3. In the dropdown menu for Source, select "Deploy from a branch"
-4. In the Branch dropdown menu, select "main" for the first section, and "root" for the second selection
-5. Click "Save"
-6. The website will refresh and a link to the live website will be available
+3. In the dropdown menu for Source, select "Deploy from a branch".
+4. In the Branch dropdown menu, select "main" for the first selection, and "root" for the second selection.
+5. Click "Save".
+6. The website will refresh and a link to the live website will be available.
 
 #
 
@@ -277,4 +282,4 @@ My website has not shown any errors whilst testing was carried out. I only had a
 
 * My husband Jamie who has taken the time to look at my project and advice me when needed. And for inspiring me to start this new chapter! Thanks for your support always being there for me!
 * My sister Lena and my friends Alja, Cynthje and Hanna as well as Vicky, Nus and Josh.  You guys have all supported me in starting this journey, and inspired me to look for the greater things in life! Thanks for believing in me, guys!
-* My mentor Rory for taking his time helping and guiding me in the right direction with his feedback and suggestions. Thank you for your support and help
+* My mentor Rory for taking his time helping and guiding me in the right direction with his feedback and suggestions. Thank you for your support and help!
