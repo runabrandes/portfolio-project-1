@@ -226,3 +226,25 @@ I have tested responsiveness and functionality on the following devices and brow
 ### SOLVED / UNSOLVED BUGS AND ERRORS
 
 My website has not shown any errors whilst testing was carried out. I only had a few warning messages come up during the HTML and CSS testing. The warnings and their fixes can be found in the "Testing - Validators" section of this README document.
+
+#
+
+## TECHNOLOGIES USED
+
+* [HTML](https://en.wikipedia.org/wiki/HTML5)
+* [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)
+
+## PROGRAMS USED
+
+* Github
+* CodeAnywhere
+* FontAwesome
+* Google Fonts
+* Chrome Developer Tools
+* Balsamiq Wireframes
+* Am I Responsive
+* W3C HTML Validator
+* W3C CSS Validator
+* WAVE
+
+#
