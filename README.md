@@ -234,6 +234,8 @@ My website has not shown any errors whilst testing was carried out. I only had a
 * [HTML](https://en.wikipedia.org/wiki/HTML5)
 * [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)
 
+#
+
 ## PROGRAMS USED
 
 * Github
@@ -248,3 +250,25 @@ My website has not shown any errors whilst testing was carried out. I only had a
 * WAVE
 
 #
+
+## DEPLOYMENT
+
+"Japan - A Seasonal Travel Guide" was deployed using GitHub. A link to the live version can be found at the top of this README file.
+
+#
+
+## CREDITS
+
+* Google Fonts - for sourcing and importing all fonts for my website
+* Font Awesome - for the icons in the footer and throughout my website
+* W3schools - for tips and tricks on coding techniques
+* Stack overflow - for more tips and tricks
+* Code Institute's Love Running walkthrough project - for reference when I got stuck throughout my project
+
+#
+
+## ACKNOWLEDGEMENTS
+
+* My husband Jamie who has taken the time to look at my project and advice me when needed. And for inspiring me to start this new chapter! Thanks for your support always being there for me!
+* My sister Lena and my friends Alja, Cynthje and Hanna as well as Vicky, Nus and Josh.  You guys have all supported me in starting this journey, and inspired me to look for the greater things in life! Thanks for believing in me, guys!
+* My mentor Rory for taking his time helping and guiding me in the right direction with his feedback and suggestions. Thank you for your support and help!
