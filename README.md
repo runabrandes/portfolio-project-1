@@ -226,7 +226,6 @@ I have tested responsiveness and functionality on the following devices and brow
 ### SOLVED / UNSOLVED BUGS AND ERRORS
 
 My website has not shown any errors whilst testing was carried out. I only had a few warning messages come up during the HTML and CSS testing. The warnings and their fixes can be found in the "Testing - Validators" section of this README document.
-
 #
 
 ## TECHNOLOGIES USED
@@ -255,6 +254,13 @@ My website has not shown any errors whilst testing was carried out. I only had a
 
 "Japan - A Seasonal Travel Guide" was deployed using GitHub. A link to the live version can be found at the top of this README file.
 
+1. Click on the "Settings" icon at the top of page in the navigation bar of the relevant repository.
+2. Select "Pages" which can be found on the left handside of the GitHub website.
+3. In the dropdown menu for Source, select "Deploy from a branch"
+4. In the Branch dropdown menu, select "main" for the first section, and "root" for the second selection
+5. Click "Save"
+6. The website will refresh and a link to the live website will be available
+
 #
 
 ## CREDITS
@@ -271,4 +277,4 @@ My website has not shown any errors whilst testing was carried out. I only had a
 
 * My husband Jamie who has taken the time to look at my project and advice me when needed. And for inspiring me to start this new chapter! Thanks for your support always being there for me!
 * My sister Lena and my friends Alja, Cynthje and Hanna as well as Vicky, Nus and Josh.  You guys have all supported me in starting this journey, and inspired me to look for the greater things in life! Thanks for believing in me, guys!
-* My mentor Rory for taking his time helping and guiding me in the right direction with his feedback and suggestions. Thank you for your support and help!
+* My mentor Rory for taking his time helping and guiding me in the right direction with his feedback and suggestions. Thank you for your support and help
